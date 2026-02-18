@@ -35,13 +35,7 @@ Built to practice clean UI design, layout structure, and responsive front-end de
 ---
 
 ## 📸 Screenshots
-![Homepage](images/screenshot1.png)
-![Mobile View](images/screenshot2.png)
-![Section Example](images/screenshot3.png)
 
-_
-
-```md
 ![Homepage](images/homepage.png)
 ![Mobile View](images/mobileview.png)
 
@@ -52,14 +46,14 @@ _
 ```bash
 git clone https://github.com/M-gatwiri/snap-inc.git
 
-~~~
+```
 
 ## Navigate into the project folder
 
 ```bash
 cd snap-inc
 
-~~~
+```
 
 ## 📁 Project Structure
 snap-inc/
@@ -68,7 +62,6 @@ snap-inc/
 ├── style.css # CSS styling
 ├── images/ # Folder containing all images and assets
 └── README.md # Project documentation
-
 
 ---
 
