@@ -35,10 +35,16 @@ Built to practice clean UI design, layout structure, and responsive front-end de
 ---
 
 ## 📸 Screenshots
-_Add screenshots of your project here_
+![Homepage](images/screenshot1.png)
+![Mobile View](images/screenshot2.png)
+![Section Example](images/screenshot3.png)
+
+_
 
 ```md
-![Homepage](images/screenshot1.png)
+![Homepage](images/homepage.png)
+![Mobile View](images/mobileview.png)
+
 
 ## ⚙️ Installation & Usage
 
